@@ -2,7 +2,8 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/HEAD/packages/create-next-app) with Material UI installed.
 
-Visit the demo site here!
+- Visit the demo site [here](https://scentronix-assessment.vercel.app/)!
+- Visit the storybook site [here](https://667944a507fa22cb3b8f1c99-aodtxpgqfi.chromatic.com/)!
 
 ## How to use
 
