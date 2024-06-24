@@ -39,6 +39,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "chromatic": "^11.5.4",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "eslint-plugin-storybook": "^0.8.0",

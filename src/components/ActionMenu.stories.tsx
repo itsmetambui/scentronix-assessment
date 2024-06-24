@@ -21,8 +21,8 @@ export const Default: Story = {
   args: {
     id: "default-action-menu",
     children: [
-      <ActionMenuTrigger>Open Action Menu</ActionMenuTrigger>,
-      <ActionMenuContent>
+      <ActionMenuTrigger key="trigger">Open Action Menu</ActionMenuTrigger>,
+      <ActionMenuContent key="content">
         <Box
           sx={{
             p: 2,
