@@ -34,9 +34,9 @@ NodeJS Backend - back-end focussed task, where you can show off your hardcore de
 
 We want you to create this component using the following tools:
 
-![example-gif](./images/design-system.gif)
-![example-mobile|320x550](./images/design-system-mobile.png){width=320px}
-![example-desktop|320x569](./images/design-system-desktop.png){width=320px}
+![example-gif](https://gitlab.com/scentronix/assessments/web-interviews/-/raw/master/fullstack/images/design-system.gif)
+![example-mobile|320x550](https://gitlab.com/scentronix/assessments/web-interviews/-/raw/master/fullstack/images/design-system-mobile.png)
+![example-desktop|320x569](https://gitlab.com/scentronix/assessments/web-interviews/-/raw/master/fullstack/images/design-system-desktop.png)
 
 Everything is done through git, so to share this project we would like you to send us a git repo on for example like Github/Gitlab etc.
 
@@ -56,7 +56,7 @@ Create a function/method that can assess a list of webservers and then returns
 a server with the lowest priority. Also create a unit test that can check if
 the function/method works as expected.
 
-![diagram|301x481](./images/backend.jpeg)
+![diagram|301x481](https://gitlab.com/scentronix/assessments/web-interviews/-/raw/master/fullstack/images/backend.jpeg)
 
 #### Requirements
 
